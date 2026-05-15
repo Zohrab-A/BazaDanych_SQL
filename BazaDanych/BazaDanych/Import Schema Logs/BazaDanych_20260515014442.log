@@ -1,0 +1,87 @@
+15.05.2026 15:44:42	This log contains information about the import schema operation into project 'BazaDanych' on computer 'DESKTOP-KN0JMMD' by user 'Gegabayt'.
+15.05.2026 15:44:42	Import of database schema has started.
+15.05.2026 15:44:44	Gathering logins
+15.05.2026 15:44:44	Gathering database credentials
+15.05.2026 15:44:44	Gathering database options
+15.05.2026 15:44:44	Gathering generic database scoped configuration option
+15.05.2026 15:44:44	Gathering users
+15.05.2026 15:44:44	Gathering roles
+15.05.2026 15:44:44	Gathering application roles
+15.05.2026 15:44:44	Gathering role memberships
+15.05.2026 15:44:44	Gathering filegroups
+15.05.2026 15:44:44	Gathering full-text catalogs
+15.05.2026 15:44:44	Gathering assemblies
+15.05.2026 15:44:44	Gathering certificates
+15.05.2026 15:44:44	Gathering symmetric keys
+15.05.2026 15:44:44	Gathering encrypted symmetric keys
+15.05.2026 15:44:44	Gathering schemas
+15.05.2026 15:44:44	Gathering XML schema collections
+15.05.2026 15:44:44	Gathering user-defined data types
+15.05.2026 15:44:44	Gathering user-defined types
+15.05.2026 15:44:44	Gathering table types
+15.05.2026 15:44:44	Gathering unique keys for table types
+15.05.2026 15:44:44	Gathering primary keys for table types
+15.05.2026 15:44:44	Gathering indexes for table types
+15.05.2026 15:44:44	Gathering check constraints for table types
+15.05.2026 15:44:44	Gathering default constraints for table types
+15.05.2026 15:44:44	Gathering partition functions
+15.05.2026 15:44:44	Gathering partition schemes
+15.05.2026 15:44:44	Gathering functions
+15.05.2026 15:44:44	Gathering encrypted functions
+15.05.2026 15:44:44	Gathering aggregates
+15.05.2026 15:44:44	Gathering procedures
+15.05.2026 15:44:45	Gathering encrypted procedures
+15.05.2026 15:44:45	Gathering tables
+15.05.2026 15:44:45	Gathering primary keys
+15.05.2026 15:44:45	Gathering unique constraints
+15.05.2026 15:44:45	Gathering foreign keys
+15.05.2026 15:44:45	Gathering default constraints
+15.05.2026 15:44:45	Gathering check constraints
+15.05.2026 15:44:45	Gathering views
+15.05.2026 15:44:45	Gathering encrypted views
+15.05.2026 15:44:45	Gathering indexes
+15.05.2026 15:44:45	Gathering statistics
+15.05.2026 15:44:45	Gathering full-text index stoplists
+15.05.2026 15:44:45	Gathering search property lists
+15.05.2026 15:44:45	Gathering search properties
+15.05.2026 15:44:45	Gathering full-text indexes
+15.05.2026 15:44:45	Gathering column store indexes
+15.05.2026 15:44:45	Gathering spatial indexes
+15.05.2026 15:44:45	Gathering XML indexes
+15.05.2026 15:44:45	Gathering JSON indexes
+15.05.2026 15:44:45	Gathering Selective XML indexes
+15.05.2026 15:44:45	Gathering encrypted triggers
+15.05.2026 15:44:45	Gathering triggers
+15.05.2026 15:44:45	Gathering encrypted and clr ddl triggers
+15.05.2026 15:44:45	Gathering ddl triggers
+15.05.2026 15:44:45	Creating edge constraints
+15.05.2026 15:44:45	Gathering synonyms
+15.05.2026 15:44:45	Gathering defaults
+15.05.2026 15:44:45	Gathering data constraint uddt bindings
+15.05.2026 15:44:45	Gathering rules
+15.05.2026 15:44:45	Gathering data constraint uddt bindings
+15.05.2026 15:44:45	Gathering message types
+15.05.2026 15:44:45	Gathering queues
+15.05.2026 15:44:45	Gathering contracts
+15.05.2026 15:44:45	Gathering services
+15.05.2026 15:44:45	Gathering event notifications
+15.05.2026 15:44:45	Gathering remote service bindings
+15.05.2026 15:44:45	Gathering broker priorities
+15.05.2026 15:44:45	Gathering signatures
+15.05.2026 15:44:45	Gathering compression options
+15.05.2026 15:44:45	Gathering sequence types
+15.05.2026 15:44:45	Gathering security policies
+15.05.2026 15:44:45	Gather column encryption keys
+15.05.2026 15:44:45	Gathering column master keys
+15.05.2026 15:44:45	Gathering external data sources
+15.05.2026 15:44:45	Gathering external file formats
+15.05.2026 15:44:45	Gathering external tables
+15.05.2026 15:44:45	Gathering XML index compression options
+15.05.2026 15:44:45	Gathering extended properties
+15.05.2026 15:44:45	Gathering assemblies
+15.05.2026 15:44:45	Gathering logins
+15.05.2026 15:44:46	Scanning project for duplicate elements
+15.05.2026 15:44:46	Finished duplicate element processing
+15.05.2026 15:44:47	Finished importing database.
+15.05.2026 15:44:47	A summary of the import was saved to the following location: D:\repooo\BazaDanych\BazaDanych\Import Schema Logs\BazaDanych_20260515014442.log
+15.05.2026 15:44:47	Click Finish to continue...
