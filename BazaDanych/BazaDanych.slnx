@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="BazaDanych/BazaDanych.sqlproj">
+  <Project Path="BazaDanych/BazaDanych.sqlproj" Id="bef876c8-dba5-4c86-99c9-acef95676f95">
     <Build />
     <Deploy />
   </Project>
